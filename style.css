@@ -1,0 +1,209 @@
+*{
+    margin: 20px;
+    padding: 30px;
+}
+.give{
+    background-color: rgb(77, 74, 74);
+    
+}
+
+#vijay img{
+        border-radius: 120px;
+        border: 8px dotted orange;
+        margin: 0%;
+        padding: 0%;        
+}
+#vijay{
+    padding-left: 520px;
+}
+
+body{
+    height: 100%;
+}
+.stripline{
+    height: 2px; 
+    background-color: beige; 
+}
+h1{
+    font-size: 35px;
+    background-color: orange;
+    border-radius: 20px;
+    width: 15%;
+    display: inline;
+}
+.hline{
+    padding-left: 425px;
+    
+    margin-top: -100px;
+}
+.para{
+    padding-left: 300px;
+    display: inline;
+}
+
+section {
+    position: absolute;
+    width: 50%;
+    
+   
+}
+.leftside{
+    left: 0;
+    width: 50%;
+    height: 100%;
+   
+}
+.rightside{
+    right: 0;
+    width: 50%;
+    height: 100%;
+}
+.here:after {
+    content:"";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 80%;
+    border-left: 1px solid #868585;
+    transform: translate(-50%);
+    height:100%;
+}
+.first{
+    position: relative;
+    margin: -110px;
+    padding-left: 100px;
+    
+}
+.high{
+    position: relative;
+    display: inline;
+    margin-left: -20px;
+    color: rgb(70, 68, 68);
+}
+i {
+    background-color: orange;
+    border-radius: 15px;
+    padding: 0%;
+    margin: 0%;
+        
+}
+.ni{
+    margin: -10px;
+   
+}
+.second{
+    position: relative;
+    margin-left: -85px;
+    padding-top: 130px;
+    
+}
+.higher{
+    color: rgb(70, 68, 68);
+    display: inline;
+    position: relative;
+    margin-left: -20px;
+}
+.inline{
+    display: inline;
+}
+.tech{
+    text-align: center;
+    font-size: 20px;
+}
+form{
+    display: inline;
+    position: relative;
+}
+.we{
+    margin-top: -50px;
+    padding-right: 100px;
+}
+.hap{
+    margin-top: -50px;
+   
+}
+.java{
+    padding-left: -100px;
+}
+
+.win{
+   margin-left: -250px;
+   margin-top: -100px;
+
+}
+li{
+    list-style: none;
+    padding: 0%;
+    
+}
+.drop{
+    margin-top: -390px;
+    margin-left: 150px;
+}
+.his{
+    margin: 0%;
+    padding: 0%;
+}
+
+.ji{
+    margin-top: -60px;
+    padding-right: 100px;
+    
+}
+.techki{
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    margin-top: -200px;
+    padding-top: -50px;
+}
+.pah{
+    margin-top: -50px;
+   
+}
+.niw{
+    margin-left: -250px;
+    margin-top: -100px;
+ 
+ }
+ .third{
+     margin-top: -300px;
+     margin-left: -80px;
+ }
+ .mim{
+    margin-left: -35px;
+    margin-top: -10px;
+    text-align: justify;
+    width: 500px;
+    
+ }
+ .bit{
+     padding-left: -100px;
+ }
+ .same{
+    text-align: justify;
+    width: 500px;
+    margin-top: -80px;
+    margin-left: -30px;
+ }
+ ul .bullot{
+    list-style-type: square; 
+ }
+
+ .ffirst{
+    margin-left: 540px;
+    margin-top: -1680px;
+ }
+ .ssecond{
+    margin-left: 540px;
+    margin-top: -200px;
+}
+ 
+.mimi{
+    margin-left: -35px;
+    margin-top: -60px;
+    text-align: justify;
+    width: 500px;
+    
+ }
